@@ -28,3 +28,5 @@ print("String Concatenation is done with the \"+\" sign.")
 print('e.g. print("Hello " + "world")')
 print("New lines can be created with a backslash and n.")
 
+#input Functions - used to get input from the user
+print("helo Mr." + input("Enter the Name"))
