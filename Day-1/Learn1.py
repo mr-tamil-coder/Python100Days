@@ -30,4 +30,12 @@ print("New lines can be created with a backslash and n.")
 
 #input Functions - used to get input from the user
 print("helo Mr." + input("Enter the Name"))
-print("testing ..")
+print("Ended print function")
+
+#program to swap the two numbers
+a=input("Enter 1st value")
+b=input("Enter 2nd value")
+c=a
+a=b
+b=c
+print(f"the value of a is {a} and the value of b is {b}")
