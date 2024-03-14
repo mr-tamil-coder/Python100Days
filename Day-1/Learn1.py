@@ -30,3 +30,4 @@ print("New lines can be created with a backslash and n.")
 
 #input Functions - used to get input from the user
 print("helo Mr." + input("Enter the Name"))
+print("testing ..")
